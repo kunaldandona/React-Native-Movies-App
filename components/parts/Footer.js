@@ -27,7 +27,7 @@ export default class FooterLayout extends Component {
     constructor(props) {
         super(props)
         this.state= {
-            index: 2
+            index: 0
         }   
     }
 
